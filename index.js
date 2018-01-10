@@ -8,11 +8,11 @@ ColorFadeJS = {
 
   settings: {
     colors: [
-      'red', 
-      'green', 
-      'blue',
-      'orange',
-      'purple'
+      '#F68383', 
+      '#f8c881', 
+      '#f7fa7c',
+      '#c2fa7c',
+      '#7cfa83'
     ],
     containerName: 'colorfade'
   },
