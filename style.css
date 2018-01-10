@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+body {
+  transition: background 1.5s;
+  overflow-x: hidden;
+  font-size: 1.4em;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 2.2em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+p {
+  line-height: 1.8em;
+  font-family: 'Crimson text';
+}
+
+.section {
+  height: 24em;
+  padding: 3em 12em;
+  text-align: center;
+}
+
