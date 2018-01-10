@@ -2,9 +2,9 @@ This plugin changes the color of your background based on a divs position in you
 
 ## To Install
 
-- Clone or download this repo
+- Download the scrollfadejs plugin
 - Add the plugin to your javscript file
-- Initialize the plugin by running ColorfadeJS.init();
+- Initialize the plugin by running ColorFadeJS.init();
 - Enjoy!
 
 ## Technologies Used
