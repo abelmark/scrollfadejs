@@ -25,6 +25,7 @@ ColorFadeJS = {
 
   setInitialColor: function(){
     document.body.style.backgroundColor = s.colors[0];
+    document.body.style.transition = "background 1.5s"
   },
 
   scrollListener: function() {

@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text');
 
 body {
-  transition: background 1.5s;
   overflow-x: hidden;
   font-size: 1.4em;
   margin: 0;
